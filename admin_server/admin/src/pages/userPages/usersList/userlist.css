@@ -1,0 +1,8 @@
+.user_list_container{
+    display: flex;
+    flex-direction: row;
+}
+
+.css-r11z79-MuiDataGrid-root{
+    margin: 0px 50px;
+}

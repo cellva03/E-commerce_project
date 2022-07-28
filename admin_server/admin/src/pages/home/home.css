@@ -1,0 +1,27 @@
+/* alignment of sidebar and the home container */
+.home_container{
+    display: flex;
+    flex-direction: row;
+}
+
+/* .btn_toggle {
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    background: #353535;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 15px;
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .btn_toggle {
+      display: block;
+      z-index: 999;
+    }
+    .home_container{
+        top: 20px;
+    }
+} */

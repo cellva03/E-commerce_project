@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+/* .css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    background-color: transparent !important;
+} */
+.carousel-indicators{
+    display: none !important;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #fff !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.css-1pysi21-MuiFormLabel-root-MuiInputLabel-root{
+    color: #fff !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+    color: #fff !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    color: #fff !important;
 }
 
-.App-link {
-  color: #61dafb;
+.css-46bh2p-MuiCardContent-root:last-child{
+    margin-left: 20% !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    position: sticky !important;
+}
+
+.css-o69gx8-MuiCardMedia-root{
+    width: 300px  !important; ;
+}
+.css-1hmpnow-MuiButtonBase-root-MuiButton-root{
+    min-width: 0px !important;
+}
+.css-1oqqzyl-MuiContainer-root{
+    padding: 0px !important;
 }
